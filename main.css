@@ -1,7 +1,7 @@
 
 
-html {
-  font-size: 1rem;
+html, body {
+  height: 100%;
 }
 
 img{
@@ -10,7 +10,7 @@ img{
 #cover{
   background: #222 url("img/bg.jpg") center center no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   color: white;
   text-align: center;
   display: flex;
